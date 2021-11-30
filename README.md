@@ -11,8 +11,8 @@
 
 ### Results
 
-![no_cache3](screenshot/no_cache3.png)
+![no_cache3](screenshot/no_cache3.jpg)
 
-![no_cache1](screenshot/no_cache1.png)
+![no_cache1](screenshot/no_cache1.jpg)
 
-![cache1](screenshot/cache1.png)
+![cache1](screenshot/cache1.jpg)
